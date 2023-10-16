@@ -7,7 +7,7 @@ function App() {
     <header className='text-gray-700 border-b border-white-900'>
       <div className='container flex mx-auto p-5 flex-col md:flex-row items-center'>
         <a href='#' className='font-medium text-gray-900 mb-4 md:mb-0'>
-          <span className='text-x1 ml-3'><img src="public/img/S__95608835.jpg" alt="logo" width="500" height="500" /></span>
+          <span className='text-x1 ml-3'><img src="img/S__95608835.JPG" alt="logo" width="500" height="500" /></span>
         </a>
         <nav className='md:ml-auto text-base'>
           <a href='#home' className='mr-5 hover:text-blue-400 duration-300'>
@@ -45,7 +45,7 @@ Choosing webuild means partnering with someone who's genuinely invested in your 
           <button className='text-white bg-green-500 py-2 px-6 border-0 rounded text-lg hover:bg-green-600 duration-300'>Contact Me</button>
         </div>
         <div className='md:w-1/2 lg:max-w-lg w-5/6'>
-          <img src="../public/img/IMG_5162.JPG" alt="shatyou" width="4000" height="1000" />
+          <img src="img/IMG_5162.JPG" alt="shatyou" width="4000" height="1000" />
         </div>
       </div>
     </section>
