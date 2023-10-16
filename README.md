@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # portfolio_-
 # portfolio_-
 # portfolio_beta
+# portfolio_beta
