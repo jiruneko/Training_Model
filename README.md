@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # portfolio_beta
 # portfolio_beta
 # Training_Model
+# Training_Model
